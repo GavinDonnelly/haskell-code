@@ -1,6 +1,6 @@
 Haskell Code
 ============
-A place to store Haskell code snippets, often mathematical or functional proofs, or just programming structures. Before I get into the contents of this repo. I would like to thank the people that taught me most of my functional programming knowlege.
+A place to store Haskell code snippets, often mathematical and functional proofs or just programming structures. Before I get into the contents of this repo. I would like to thank the people that taught me most of my functional programming knowlege.
 
 - [Prof Neil Ghani](https://personal.cis.strath.ac.uk/neil.ghani/)
 - [Dr Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/)
