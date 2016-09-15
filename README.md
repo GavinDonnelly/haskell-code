@@ -9,7 +9,7 @@ A place to store Haskell code snippets, often mathematical or functional proofs,
 
 ## Overview
 This Repo is split into directories of code,
-- **Basic:** Files of basic haskell code, manipuation of strings, integers and lists, some sorting algorithms.
+- **[BasicCode](BasicCode/):** Files of basic haskell code, manipuation of strings, integers and lists, some sorting algorithms.
 - **Experimental:** Small programs built on simple experimenal ideas like a bank system or the game of hangman.
 - **Logic and Proofs:** More structured code, laying out different desgins like propositional logic or topological sorting.
 
