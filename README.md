@@ -19,7 +19,7 @@ Please feel free to use this code and learn from it thats what I wrote it to tea
 If you have never seen Haskell I recommend visting [Haskell.org](https://www.haskell.org/), they have a great in browser compiler to try it out and lead you through the basics. There is also plenty of documentation to get you set up on your machine if you really want to get serious and try some of your own or my code out.
 
 ## Running
-Remember, when running Haskell code to learn or explore the programming concepts **[GCHi](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)** is your friend. Running is a program is as easy as:
+Remember, when running Haskell code to learn or explore the programming concepts **[GCHi](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)** is your friend. Running a program is as easy as:
 
 ```bash
 $ ghci
